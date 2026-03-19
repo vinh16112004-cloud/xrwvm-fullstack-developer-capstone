@@ -19,7 +19,7 @@
               <input type="email" name="email" placeholder="Email" className="input_field" onChange={(e) => setEmail(e.target.value)}/>
             </div>
             <div class="input">
-              <input type="password" name="psw" placeholder="Password" className="input_field" onChange={(e) => setPassword(e.target.value)}/>
+              <input type="password" name="password" placeholder="Password" className="input_field" onChange={(e) => setPassword(e.target.value)}/>
             </div>
         </div>
         <div class="submit_container">
